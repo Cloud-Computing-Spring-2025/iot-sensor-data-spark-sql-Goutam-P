@@ -31,7 +31,7 @@ Each task saves its output in a structured directory under `/output`.
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 Make sure you are inside the project folder that contains all task scripts and `sensor_data.csv`.
 
